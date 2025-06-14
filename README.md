@@ -1,7 +1,7 @@
 <h1 align="center">⏤͟͟͞͞⋆⬪࣪ꥈ♡ 𝐒𝐚𝐤𝐢 ׄ𝐀𝐲𝐚𝐬𝐞 ꒱ ୭</h1>
 
  <p align="center">
-  <img src="https://zero-two.info/uploads/videos/file-1749927708978-32299385.mp4" alt="Siki Ayase Bot Preview" />
+  <img src="https://zero-two.info/uploads/videos/file-1749927708978-32299385.gif" alt="Siki Ayase Bot Preview" />
 </p>
 
 
