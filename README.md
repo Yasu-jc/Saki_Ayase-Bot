@@ -112,7 +112,7 @@ npm start
 
 ### **`❀ Colaboradores`**
 <a href="https://github.com/Yasu-jc/Saki_Ayase-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Yasu-jc/Saki_Ayase-Bot.git" /> 
+<img src="https://contrib.rocks/image?repo=Yasu-jc/Saki_Ayase-Bot" /> 
 </a>
 
 ### **`ᥫ᭡ Propietario`**
