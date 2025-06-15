@@ -42,7 +42,7 @@ global.sakiJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '𒆜꙰ꫂ𝐒𝐚𝐤𝐢♤𝐀𝐲𝐚𝐬𝐞•-𝄟≛⃝𝐁𝐎𓆩𝐓𝄟≛'
+global.packname = '𒆜꙰ꫂ𝐒𝐚𝐤𝐢♤𝐀𝐲𝐚𝐬𝐞•-𝄟≛⃝𝐁𝐨𝐭𓆩𝄟≛'
 global.botname = 'ՏɑƘí'
 global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ★ ׄ ꒱ ѕαѕкι_αуαѕє-вσт୭'
 global.author = 'mᥲძᥱ ᑲᥡ : ⨀⃝⃟⃞༺𝔜𝔞𝔰𝔲༻𝔣𝔣❀'
