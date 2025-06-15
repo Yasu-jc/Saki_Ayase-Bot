@@ -111,8 +111,8 @@ npm start
 ---
 
 ### **`❀ Colaboradores`**
-<a href="https://github.com/Yasu-jc/Saki_Ayase-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=https://github.com/Yasu-jc/Saki_Ayase-Bot.githttps://github.com/Yasu-jc/Saki_Ayase-Bot" /> 
+<a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
 </a>
 
 ### **`ᥫ᭡ Propietario`**
