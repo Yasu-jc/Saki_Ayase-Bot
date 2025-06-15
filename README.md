@@ -1,7 +1,7 @@
 <h1 align="center">『 𖤍𝐒𝐚𝐤𝐢_𝐀𝐲𝐚𝐬𝐞-𝐁𝐨𝐭 𖤍 』</h1>
 
  <p align="center">
-  <img src="https://zero-two.info/uploads/videos/file-1749927708978-32299385.gif" alt="Siki Ayase Bot Preview" />
+  <img src="https://i.postimg.cc/N0TJK47c/catalogo.png" alt="Siki Ayase Bot Preview" />
 </p>
 
 
