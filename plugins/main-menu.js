@@ -372,7 +372,7 @@ await m.react(error)
 
 handler.help = ['menu']
 handler.tags = ['main']
-handler.command = ['allmenú', 'allmenu', 'menucompleto'] 
+handler.command = ['menu', 'menú', 'help'] 
 export default handler
 
 const more = String.fromCharCode(8206)
