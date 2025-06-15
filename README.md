@@ -1,4 +1,4 @@
-<h1 align="center">⏤͟͟͞͞⋆⬪࣪ꥈ♡ 𝐒𝐚𝐤𝐢 ׄ𝐀𝐲𝐚𝐬𝐞 ꒱ ୭</h1>
+<h1 align="center">『 𖤍𝐒𝐚𝐤𝐢_𝐀𝐲𝐚𝐬𝐞-𝐁𝐨𝐭 𖤍 』</h1>
 
  <p align="center">
   <img src="https://zero-two.info/uploads/videos/file-1749927708978-32299385.gif" alt="Siki Ayase Bot Preview" />
@@ -57,7 +57,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/Yuki_Suou-Bot && cd Yuki_Suou-Bot
+git clone https://github.com/Yasu-jc/Saki_Ayase-Bot && cd Saki_Ayase-Bot 
 ```
 
 ```bash
